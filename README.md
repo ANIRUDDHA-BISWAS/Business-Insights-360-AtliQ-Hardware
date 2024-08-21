@@ -41,6 +41,9 @@ Gross price | Pre-invoice deductions | Net invoice sales | post-invoice deductio
 
 I invite you to check out the complete interactive dashboard using the link below, and I’d love to hear your thoughts in the comments!  
 
-Project Link
-GitHub Link
+[Project document Link](https://app.powerbi.com/view?r=eyJrIjoiMjdlZTQwNDQtYjRmMC00YzFlLThhYWQtNmM2Y2ZmM2E0ZmNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4e8492f066963e54ee79)  
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjdlZTQwNDQtYjRmMC00YzFlLThhYWQtNmM2Y2ZmM2E0ZmNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4e8492f066963e54ee79)  
+[Likedin Post Link]()  
+
+
 
