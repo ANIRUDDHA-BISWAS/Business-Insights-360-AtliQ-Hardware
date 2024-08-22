@@ -1,5 +1,7 @@
 
-![Uploading ah.png…]()
+<div align="center">
+  <img src="https://github.com/ANIRUDDHA-BISWAS/Business-Insights-360-AtliQ-Hardware/blob/main/Business%20insights%20360%2C%20AtliQ%20Hardware.png" alt="Business insights 900" width="600"/>
+</div>
 
 # Business insights 360, AtliQ Hardware
 
