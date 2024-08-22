@@ -1,7 +1,7 @@
 
+![Uploading ah.png…]()
 
-
-# Business nsights 360, AtliQ Hardware
+# Business insights 360, AtliQ Hardware
 
 ## Problem Statement:
 AtliQ Technologies, a fast-growing hardware company specializing in peripherals, faced significant challenges in Latin America. My project, Business Insights 360, was crafted to help them overcome these challenges through data-driven decision-making.
@@ -46,7 +46,7 @@ I invite you to check out the complete interactive dashboard using the link belo
 
 [Project document Link](https://app.powerbi.com/view?r=eyJrIjoiMjdlZTQwNDQtYjRmMC00YzFlLThhYWQtNmM2Y2ZmM2E0ZmNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4e8492f066963e54ee79)  
 [Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiMjdlZTQwNDQtYjRmMC00YzFlLThhYWQtNmM2Y2ZmM2E0ZmNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=4e8492f066963e54ee79)  
-[Likedin Post Link]()  
+[Likedin Post Link](https://www.linkedin.com/feed/update/urn:li:activity:7232001039602700288/)  
 
 
 
